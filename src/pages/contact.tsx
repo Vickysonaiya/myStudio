@@ -29,8 +29,8 @@ const Contact = (props: Props) => {
               <p></p>
               <p>Surat, Gujrat</p>
 
-              <p className="mt-4">+91 98795-10194</p>
-              <p>dhrumilbusa@gmail.com</p>
+              <p className="mt-4">+91 91064-71172</p>
+              <p>vickysonaiya0189@gmail.com</p>
             </div>
           </div>
           <div className="col-span-2">

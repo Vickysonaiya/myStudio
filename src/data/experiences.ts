@@ -3,10 +3,10 @@ import { Experience } from '@/types';
 export const experiences: Experience[] = [
   {
     jobTitle: 'Full Stack Developer',
-    company: 'Tameta-Tech',
-    startDate: 'january 2025',
-    endDate: 'june 2025',
-    description: 'As a Full Stack Developer Intern at Tameta-Tech, I am responsible for Working on a dynamic website builder project focused on enhancing user experience. Involved in both front-end and back-end development to create smooth, responsive, and customizable web solutions.',
+    company: 'VAMXR TECHNOLOGIES',
+    startDate: 'September 2024',
+    endDate: 'Till Present',
+    description: 'As a Full Stack Developer Intern at VAMXR TECHNOLOGIES, I am responsible for Working on a dynamic website builder project focused on enhancing user experience. Involved in both front-end and back-end development to create smooth, responsive, and customizable web solutions.',
   },
 
   // {

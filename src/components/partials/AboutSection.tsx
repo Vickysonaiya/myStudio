@@ -14,13 +14,13 @@ const AboutSection = () => {
         {/* Bio */}
         <div className="">
           <p className="text-justify">
-            Hi, I'm Dhrumil Busa — a passionate Full Stack Developer based in Surat, Gujarat.<br />
+            Hi, I'm VICKY SONAIYA — a passionate Full Stack Developer based in Surat, Gujarat.<br />
 
             I specialize in building, designing, and customizing websites and mobile applications that are not just functional but also user-friendly and performance-driven. With hands-on experience across both front-end and back-end technologies, I turn ideas into scalable digital solutions that deliver real value.<br />
 
             Whether it's crafting responsive UI, integrating APIs, or optimizing backend logic — I love the full cycle of bringing products to life through clean, efficient code.
           </p>
-          <Link href="/Dhrumil Busa.pdf" passHref>
+          <Link href="/VICKY SONAIYA.pdf" passHref>
             <a download>
               <Button className="mt-5">Download CV</Button>
             </a>
@@ -44,7 +44,7 @@ const AboutSection = () => {
             <ProgressBar color="blue" progress={85} />
           </div>
 
-          <div className="">
+          {/* <div className="">
             <div className="mb-3 flex justify-between">
               <h6 className="font-semibold">Mobile Application</h6>
               <p>65%</p>
@@ -57,7 +57,7 @@ const AboutSection = () => {
               <p>90%</p>
             </div>
             <ProgressBar color="green" progress={90} />
-          </div>
+          </div> */}
 
         </div>
       </div>
@@ -69,7 +69,7 @@ const AboutSection = () => {
             <HiOutlineFire size={50} />
           </div>
           <div>
-            <h2 className="text-3xl font-bold">5+</h2>
+            <h2 className="text-3xl font-bold">4+</h2>
             <p className="mt-1">Projects Completed</p>
           </div>
         </div>
@@ -79,7 +79,7 @@ const AboutSection = () => {
             <HiOutlineChartBar size={50} />
           </div>
           <div>
-            <h2 className="text-3xl font-bold">6+</h2>
+            <h2 className="text-3xl font-bold">9+</h2>
             <p className="mt-1">Months of experience</p>
           </div>
         </div>
